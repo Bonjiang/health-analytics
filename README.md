@@ -1,1 +1,1 @@
-# health-analytics
+I created random variables in the beginning and made an even numbers list to showcase some even numbers. For the dictionary, I focused on a bear and then added an about him section along with a nested dictionary of his favorite food. For the function, I wanted to create a price match comparison checker for prices online vs in store. For this hw, the price match amount is accurate for the sample variables. The expected outcome is 150 online cost is more expensive than 100 store cost# health-analytics
