@@ -3,7 +3,7 @@ import numpy as np
 
 number_variable = 70
 
-string_variable = 'Hi, there'
+string_variable = 'Hello, there'
 
 even_numbers = [2,4,6,8]
 
